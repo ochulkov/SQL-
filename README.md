@@ -51,5 +51,5 @@ insert into  ProductType(Title)
 ```
 
 ### UseCase
-![UseCase](./usecase/UseCase.png)
+![UseCase](./img/UseCase.png)
 
